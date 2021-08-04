@@ -20,6 +20,9 @@ Nesse desafio, você irá criar documentar, com o Swagger, a API desenvolvida no
   yarn dev
 
   ``` 
+ 2. Acesse http://localhost:3333 para ver o resultado.
+    
+ 3. Acesse http://localhost:3333/api-docs para ver a documentação da api.
   
   
 Criado por:- [Camila Sbrussi](https://github.com/camisbrussi/) com assistência da Rocketseat!
